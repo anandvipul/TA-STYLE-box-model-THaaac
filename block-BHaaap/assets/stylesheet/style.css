@@ -71,7 +71,7 @@ p {
 
 
 li {
-	display: inline;
+	display: inline-block;
 }
 
 img {
@@ -82,4 +82,5 @@ img {
 a {
 	border-bottom: 3px dashed blue;
 	background-color: #A1A1A1;
+	display: inline-block;
 }
