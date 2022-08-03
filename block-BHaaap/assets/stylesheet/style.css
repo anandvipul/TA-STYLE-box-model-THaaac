@@ -74,6 +74,11 @@ li {
 	display: inline;
 }
 
+img {
+	border-radius: 30px;
+}
+
+
 a {
 	border-bottom: 3px dashed blue;
 	background-color: #A1A1A1;
